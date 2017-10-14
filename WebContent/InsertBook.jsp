@@ -80,13 +80,9 @@
         		  alert("信息不能为空！");
         		  return false;
         		  }
-        	  else
-        		  {
-        		  return true;
-        		  }
+        	  
+             return true;
         	
-        	  
-        	  
           }
     </script>
 <body>
